@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0493-reverse-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0493-reverse-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
