@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0493-reverse-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2942-find-words-containing-character) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
