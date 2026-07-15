@@ -86,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
