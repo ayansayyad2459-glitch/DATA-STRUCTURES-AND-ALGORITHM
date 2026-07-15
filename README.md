@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0088-merge-sorted-array) |
 | [0493-reverse-pairs](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1331-rank-transform-of-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
