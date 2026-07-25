@@ -27,3 +27,8 @@ public:
         return head;
     }
 };
+// // 1. Move fast n steps ahead
+// 2. Move slow & fast together
+// 3. Slow reaches node before target
+// 4. Delete slow->next
+// 5. Return head
