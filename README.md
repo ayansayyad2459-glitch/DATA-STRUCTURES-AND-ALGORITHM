@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0022-generate-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0424-longest-repeating-character-replacement) |
 | [2942-find-words-containing-character](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayansayyad2459-glitch/DATA-STRUCTURES-AND-ALGORITHM/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
